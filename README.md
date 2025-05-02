@@ -1,5 +1,5 @@
-# Isaac-Sim-Replicator-Tutorial
-A Tutorial Repository for Isaac Sim Replicator.
+# Isaac Sim Replicator Tutorial
+A Tutorial Repository for Isaac Sim Replicator for Synthetic Data Generation.
 
 ## Requirements
 This repository was tested on Ubuntu 22.04, Nvidia RTX 3060, Cuda 12.4 and Python 3.10.
