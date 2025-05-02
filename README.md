@@ -2,7 +2,7 @@
 A Tutorial Repository for Isaac Sim Replicator for Synthetic Data Generation.
 
 ## Requirements
-This repository was tested on Ubuntu 22.04, Nvidia RTX 3060, Cuda 12.4 and Python 3.10.
+Isaac Sim 4.5 installation was tested on Ubuntu 22.04, Nvidia RTX 3060, Cuda 12.4, Python 3.10 and ROS2 Humble.
 
 ## Proccedure
 - First Go through the Tutorial for Isaac Sim Installation from [here](https://github.com/ArghyaChatterjee/Isaac-Sim-Tutorial).
