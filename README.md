@@ -8,6 +8,11 @@ Isaac Sim 4.5 installation was tested on Ubuntu 22.04, Nvidia RTX 3060, Cuda 12.
 - First, go through the tutorial for Isaac Sim Installation from [here](https://github.com/ArghyaChatterjee/Isaac-Sim-Tutorial).
 
 ## Demo
+Start Isaac Sim:
+```
+cd isaacsim
+./isaac-sim.sh
+```
 Here is a demo script for replicator:
 ```
 import omni.replicator.core as rep
