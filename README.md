@@ -15,7 +15,7 @@ cd isaacsim
 ```
 On the upper left corner, click on `window` and click on `script editor`. Grab the script editor and release it on the down panel where there are other panels like `console`, `content` and `Isaac Sim Assets`. 
 
-### Start the Process
+### Start the Process:
 Here is a demo script for replicator. Paste it inside script editor.
 ```
 import omni.replicator.core as rep
