@@ -44,5 +44,7 @@ with rep.new_layer():
 ```
 
 ## Resources
+- Isaac Sim: Replicator - People and Robots [[video]](https://www.youtube.com/watch?v=F3jxzIKAf9M)
+- Isaac Sim: Omniverse Replicator - Synthetic Data Generation (Warehouse with palletjacks) [[video]](https://www.youtube.com/watch?v=hk8nQT9Q0CM)
 - Omniverse Replicator Tutorial: Setup Guide for Synthetic Data Generation [[video]](https://www.youtube.com/watch?v=_a55hAAF27I)
 - Isaac Sim Installation & Core Functions | "Hello World" of Omniverse Replicator [[video]](https://www.youtube.com/watch?v=_kzW6yBno6Q)
