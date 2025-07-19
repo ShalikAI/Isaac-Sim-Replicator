@@ -13,13 +13,13 @@ Isaac Sim Replicator provides extensions and workflows for synthetic data genera
 Isaac Sim 4.5 installation was tested on Ubuntu 22.04, Nvidia RTX 3060, Cuda 12.4, Python 3.10 and ROS2 Humble.
 
 # Installation
-- First, go through the tutorial for Isaac Sim Installation from [here](https://github.com/ArghyaChatterjee/Isaac-Sim-Tutorial).
+- First, go through the tutorial for Isaac Sim Installation from [here](https://github.com/ShalikAI/Isaac-Sim-Tutorial).
 
 ## Clone the repo:
 First, clone this repo:
 ```
-git clone https://github.com/ihmcrobotics/ihmc-synthetic-data-generation-pipeline.git
-cd ihmc-synthetic-data-generation-pipeline/object_pose_generator/rigid_object_pose_generator/isaac_sim_replicator_pose_generator/
+git clone https://github.com/ShalikAI/Isaac-Sim-Replicator-Tutorial.git
+cd Isaac-Sim-Replicator-Tutorial
 ```
 ## Start Isaac Sim:
 ```
