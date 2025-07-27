@@ -1,4 +1,4 @@
-# Isaac Sim Replicator Tutorial
+# Isaac Sim Replicator
 A Tutorial Repository for Isaac Sim Replicator for Synthetic Data Generation.
 
 <div align="center">
