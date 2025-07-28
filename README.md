@@ -7,6 +7,16 @@ A Tutorial Repository for Isaac Sim Replicator for Synthetic Data Generation.
   <img src="media/isaac_tutorial_replicator_object_based_sdg_drop_table.jpg" width="185">
 </div>
 
+## License
+
+The code is distributed under the CC BY-NC-SA 4.0 License.
+See [LICENSE](LICENSE) for more information.
+
+```python
+# Copyright (C) 2025-present by ShalikAI. All rights reserved.
+# Licensed under CC BY-NC-SA 4.0 (non-commercial use only).
+```
+
 Isaac Sim Replicator provides extensions and workflows for synthetic data generation (SDG) using the `omni.replicator` extension. It supports domain randomizations, sensor simulation, and data collection with annotators and writers. In contrast to `omni.replicator`, where the typical workflow combines randomization and data capture within a generated OmniGraph workflow, the Isaac Sim Replicator workflow focuses on flexibility by independently triggering randomizations and data captures. This makes it better-suited for nondeterministic scenarios such as simulations and robotics tasks.
 
 # Requirements
